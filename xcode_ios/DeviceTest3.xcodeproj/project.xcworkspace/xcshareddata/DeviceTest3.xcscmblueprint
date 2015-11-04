@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C1592E13F54A0EAD6059EFA06287500EFABB0AFE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9BE65ACB015AB9F0262E22BE0CEA1462FDBAE2C4" : 0,
+    "C1592E13F54A0EAD6059EFA06287500EFABB0AFE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7205E008-AD98-44AE-92B0-3650B7794233",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9BE65ACB015AB9F0262E22BE0CEA1462FDBAE2C4" : "",
+    "C1592E13F54A0EAD6059EFA06287500EFABB0AFE" : "DeviceTest3\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DeviceTest3",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "xcode_ios\/DeviceTest3.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lacty\/Cinder-Sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9BE65ACB015AB9F0262E22BE0CEA1462FDBAE2C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Lacty\/DeviceTest3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C1592E13F54A0EAD6059EFA06287500EFABB0AFE"
+    }
+  ]
+}

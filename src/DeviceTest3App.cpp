@@ -28,7 +28,7 @@ void DeviceTest3App::update()
 void DeviceTest3App::draw()
 {
 	// clear out the window with black
-	gl::clear( Color( 0, 0, 0 ) ); 
+	gl::clear( Color( 0, 0, 1 ) );
 }
 
 CINDER_APP_NATIVE( DeviceTest3App, RendererGl )
